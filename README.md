@@ -8,7 +8,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://commons.wikimedia.org/w/index.php?search=pgsql&title=Special:MediaSearch&go=Go&type=image">
+  <img align="center" alt="PGSQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png">
   <img align="center" alt="Java" height="40" width="50" src="https://miro.medium.com/max/1024/1*jkOCjQlkGZjbhWdvh7LfRA.png">
   <img align="center" alt="SCSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">
 
